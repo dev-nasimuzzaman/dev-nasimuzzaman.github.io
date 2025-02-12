@@ -80,4 +80,4 @@ public class MdNasimuzzaman {
 
 ---
 
-> "Code, Optimize, and Innovate - The Future is AI!"
+> "Code, Optimize, and Innovate!"
