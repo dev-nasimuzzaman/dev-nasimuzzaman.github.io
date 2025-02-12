@@ -1,5 +1,5 @@
 # Hey! Welcome Here 🚀
-### Myself Md Nasimuzzaman!
+### Md Nasimuzzaman!
 
 ![Tech Enthusiast](https://img.shields.io/badge/Tech%20Enthusiast-🚀-blue)
 ![AI Trainer](https://img.shields.io/badge/AI%20Trainer-%F0%9F%A4%96-purple)
