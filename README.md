@@ -6,8 +6,6 @@
 ![Software Developer](https://img.shields.io/badge/Software%20Developer-%F0%9F%92%BB-green)
 ![ML Engineer](https://img.shields.io/badge/Machine%20Learning-%E2%9C%94%EF%B8%8F-orange)
 
-# 👨‍💻 Md Nasimuzzaman - AI Trainer | Software Engineer | ML Enthusiast  
-
 ```java
 // A simple introduction in Java style
 public class MdNasimuzzaman {
