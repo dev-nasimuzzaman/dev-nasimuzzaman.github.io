@@ -6,22 +6,29 @@
 ![Software Developer](https://img.shields.io/badge/Software%20Developer-%F0%9F%92%BB-green)
 ![ML Engineer](https://img.shields.io/badge/Machine%20Learning-%E2%9C%94%EF%B8%8F-orange)
 
-```python
-# A simple introduction in Python style
-class MdNasimuzzaman:
-    def __init__(self):
-        self.role = ["AI Trainer", "Software Engineer", "ML Enthusiast"]
-        self.skills = ["Python", "Machine Learning", "Deep Learning", "SQL", "Java", "AI Optimization", "Data Science"]
-        self.interests = ["LLMs", "AI Ethics", "Software Engineering", "NLP"]
-    
-    def work(self):
-        return "Currently freelancing as an AI Trainer & Developer, working on AI fine-tuning, evaluation, and software development."
-    
-    def contact(self):
-        return "Reach me at: nasimuzzaman98@gmail.com or connect on LinkedIn!"
+```Java
+// A simple introduction in Java style
+public class MdNasimuzzaman {
+    private String[] role = {"AI Trainer", "Software Engineer", "ML Enthusiast"};
+    private String[] skills = {"Python", "Machine Learning", "Deep Learning", "SQL", "Java", "AI Optimization", "Data Science"};
+    private String[] interests = {"LLMs", "AI Ethics", "Software Engineering", "NLP"};
 
-me = MdNasimuzzaman()
-print(me.work())
+    // Method to describe current work
+    public String work() {
+        return "Currently freelancing as an AI Trainer & Developer, working on AI fine-tuning, evaluation, and software development.";
+    }
+
+    // Method to return contact information
+    public String contact() {
+        return "Reach me at: nasimuzzaman98@gmail.com or connect on LinkedIn!";
+    }
+
+    public static void main(String[] args) {
+        MdNasimuzzaman me = new MdNasimuzzaman();
+        System.out.println(me.work());
+    }
+}
+
 ```
 
 ---
